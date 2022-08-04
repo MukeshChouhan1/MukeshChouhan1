@@ -1,8 +1,6 @@
-<header> <img  width="100%" height="300px" src="https://miro.medium.com/max/1400/1*PjxaUpMULTLqXNpqCtz0kg.png"/> </header>
+
 <h1 align="center">Hi 👋, I'm Mukesh Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img align = "right" alt ="Coding" width="400" src="https://media-exp1.licdn.com/dms/image/C4D03AQHrxQ_L3YtOeg/profile-displayphoto-shrink_200_200/0/1657859572381?e=1665014400&v=beta&t=R1vl842fUaB5D5iXLgN0bWnGCeFc667RBJSAT91QWN8" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshchouhan1&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshchouhan1" /> </p>
 
