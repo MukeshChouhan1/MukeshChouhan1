@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshchouhan1&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshchouhan1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@26mukeshchouhan" target="blank"><img src="https://img.shields.io/twitter/follow/@26mukeshchouhan?logo=twitter&style=for-the-badge" alt="@26mukeshchouhan" /></a> </p>
-
 - 🔭 I’m currently working on **-------------**
 
 - 💬 Ask me about **HTML, CSS, Angular, Typescript and JavaScript**
